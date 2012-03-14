@@ -1,0 +1,4 @@
+megan project notes
+
+-shaping vr4 in the stream data shows up as having 18 intervals.  This should be 12
+-Reward is hard to see in shaping because of white on yellow background. Make it bigger?  Make it pop?
